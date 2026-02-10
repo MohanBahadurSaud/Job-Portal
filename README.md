@@ -9,7 +9,6 @@ A modern, responsive job portal application built with React and Vite. Browse av
 ## ✨ Features
 
 - 🔍 **Smart Search** - Search jobs by title in real-time
-- 📱 **Responsive Design** - Works seamlessly on all devices
 - 💳 **Job Cards** - Clean, interactive job listing cards with hover effects
 - 📄 **Job Details Modal** - View complete job information in a modal popup
 - 🎨 **Modern UI** - Beautiful design with Tailwind CSS
