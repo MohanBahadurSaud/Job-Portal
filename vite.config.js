@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: '/Job-Portal/',
+  base: process.env.VITE_BASE_PATH || '/Job-Portal/',
 })
